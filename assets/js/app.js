@@ -20,10 +20,6 @@ $(function(){
       }
       
       document.querySelector('.newsletterClose').addEventListener('click',newsPopUpClose)
-
-      $("#newsletter").click(function(){
-        document.querySelector('#newsletter').style.transform = 'scale(0)'
-      });
     // Newsletter Popup End
       
 
